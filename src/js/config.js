@@ -6,7 +6,7 @@ var CONFIG = {
     APP_NAME: 'Distrito.pt',
 
     // URL of the fixmystreet install to report to
-    FMS_URL: 'distrito.75.102.34.148.xip.io',
+    FMS_URL: 'http://distrito.75.102.34.148.xip.io',
 
     // namespace for storing drafts etc in. Should not need to change
     NAMESPACE: 'fixmystreet',
